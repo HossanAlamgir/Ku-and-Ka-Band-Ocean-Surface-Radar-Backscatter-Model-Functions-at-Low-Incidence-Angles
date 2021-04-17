@@ -1,5 +1,5 @@
 
-The variables in the files are defined as follows
+The variables in the file are defined as follows
 
 meanSigku= Binned average Ku Sigma0 measurements [WS X Chi X beam], in dB
 meanSigka= Binned average Ka Sigma0 measurements [WS X Chi X beam], in dB
